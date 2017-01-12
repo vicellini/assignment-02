@@ -1,0 +1,36 @@
+
+* {
+  box-sizing: border-box;
+}
+
+#app-container {
+  margin: 0 auto;
+  padding: 10px 200px 10px 90px;
+  width: 725px;
+  background-color: #FBF9F1;
+  font-family: "Georgia";
+  font-weight: lighter;
+}
+
+.header {
+    font-family: "Georgia";
+    font-size: 10px;
+    font-weight: 100;
+}
+
+
+.content h2 {
+    font-size: 30px;
+    font-weight: lighter;
+    margin-bottom: 0;
+    padding-bottom:0;
+  }
+
+.content {
+  line-height: 1.25;
+  max-width: 377px;
+}
+
+.content .p1 {
+    margin-top: 8px;
+}
