@@ -3,13 +3,12 @@
   box-sizing: border-box;
 }
 
-#app-container {
+body {
   margin: 0 auto;
   padding: 10px 200px 10px 90px;
   width: 725px;
-  background-color: #FBF9F1;
+  background: #FBF9F1;
   font-family: "Georgia";
-  font-weight: lighter;
 }
 
 .header {
